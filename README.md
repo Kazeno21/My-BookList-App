@@ -1,4 +1,4 @@
-#BookList-App
+# BookList App
 This is my first app which makes use of local storage.
 Used basic bootstrap to style it.
 
